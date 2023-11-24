@@ -14,16 +14,10 @@
 
 
 <hr>
- <h3> For using the project clone the repository and type the following commands in the termial: </h3>
  <ul>
   <li> pip install -r requirements.txt</li>
   <li> python app.py</li>
   </ul>
   
   <hr>
-  
-  <p> The complete project is deployed on Heroku cloud platform.
-  
- <p> Here is the link where you can access the project live : https://fakenewsclassifiermlwebapp.herokuapp.com <p>
-  <p> If you like this repo, please don't forget to give a ⭐.
-</p>
+ 
